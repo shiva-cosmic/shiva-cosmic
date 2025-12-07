@@ -134,13 +134,12 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 <div align="center">
 
-<img src="https://i.imgur.com/7dV4VdB.png" width="450" style="border-radius: 10px;"/>
 
-<br/>
 
 <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=false" width="420"/>
 
 </div>
+
 
 
 
