@@ -3,7 +3,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj5it4SUhr33g1P_0oXUaKOhO5NRHaTdNozBMnSIC1odWuPI5_Bv0p9ZHXJpNeGE7WbP3AtHkj84Fyy0mefZEHUzVUFTLJHClZm1xf2UOrrMVPkz3QeVdkXk0t1QnuXxdV65sWs54jLP_Rp3C1fAQHNqLj2Llg7YJ4Tsz1nM1psmYiWcmfTHHKVwQI7Dac" width="450">
+  <img src="<img width="1084" height="322" alt="image" src="https://github.com/user-attachments/assets/7727f66d-eaac-446f-9b78-8bcb94b888e5" />
+" width="450">
 </div>
 
 ---
