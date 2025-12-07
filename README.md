@@ -1,10 +1,11 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shiva-cosmic/shiva-cosmic/main/matrix.svg" width="100%">
+</div>
+
 <h1 align="center">Hi, I'm Shivansh Mishra 
   <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="35">
 </h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shiva-cosmic/shiva-cosmic/main/matrix.svg" width="100%">
-</div>
 
 ---
 
