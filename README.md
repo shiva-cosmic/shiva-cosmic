@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="35">
 </h1>
 
----
+
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828673.png" width="25"/> About Me  
 I'm a **Cloud & DevOps Engineer (AWS)** and **Frontend Developer** passionate about  
@@ -18,11 +18,11 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 - 🎤 Love public speaking—cleared multiple inter-college competitions  
 - 💼 Looking for Cloud / DevOps / Frontend opportunities  
 
----
+
 
 ## 🛠 Tech Stack  
 
-<div align="left">
+<div align="center">
 
 <!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,vite" />
@@ -63,7 +63,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 <img src="https://skillicons.dev/icons?i=jupyter,colab" />
 
 <br/>
----
+
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3272/3272606.png" width="25"/> Achievements  
 - 🥇 **1st place** – Idea POC Technical Fest  
@@ -71,7 +71,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 - 🏅 **Finalist** – Yukti Innovation Challenge  
 - 🕹 **3rd Position** – IEEE Game Development Contest  
 
----
+
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/545/545680.png" width="25"/> Featured Projects  
 
@@ -84,7 +84,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 ### 🔹 **My Developer Portfolio**  
 🔗 Live: https://shiva-cosmic.github.io/ShivanshhPortfolio/
 
----
+
 
 ## 🌐 Connect With Me  
 
@@ -99,8 +99,9 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 </a>
 
 <a href="https://shiva-cosmic.github.io/ShivanshhPortfolio/">
-  <img src="https://img.icons8.com/fluency/48/domain.png" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/internet.png" height="50"/>
 </a>
+
 
 <a href="mailto:imshiv311@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
@@ -109,19 +110,38 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 </div>
 
 
----
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1827/1827504.png" width="25"/> GitHub Stats  
 
-![](https://nirzak-streak-stats.vercel.app/?user=shiva-cosmic&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-cosmic&theme=dark&hide_border=false&layout=compact)
+## <div align="center"><img src="https://cdn-icons-png.flaticon.com/512/1827/1827504.png" width="25"/> GitHub Stats</div>
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" width="100%">
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shiva-cosmic&theme=dark&hide_border=false" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-cosmic&theme=dark&hide_border=false&layout=compact" />
+
+  <br/><br/>
+
+  <img src="https://profile-readme-generator.com/assets/snake.svg" width="100%" />
+
 </div>
 
----
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🔥 Glitch Hacker-Style Dev Joke
+
+<div align="center">
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" />
+
+  <br/>
+
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" 
+       style="border: 2px solid #00ffea; border-radius: 10px; padding: 10px; filter: drop-shadow(0 0 8px #00ffee);" 
+  />
+
+  <br/>
+
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" />
+</div>
+
