@@ -22,7 +22,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 ## 🛠 Tech Stack  
 
-<div align="center">
+<div align="left">
 
 <!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,vite" />
@@ -103,7 +103,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 </a>
 
 <a href="https://shiva-cosmic.github.io/ShivanshhPortfolio/">
-  <img src="https://skillicons.dev/icons?i=webflow" height="50"/>
+  <img src="https://skillicons.dev/icons?i=portfolio" height="50"/>
 </a>
 
 <a href="mailto:imshiv311@gmail.com">
