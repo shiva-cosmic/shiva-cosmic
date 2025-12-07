@@ -62,9 +62,6 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 <!-- AI / ML -->
 <img src="https://skillicons.dev/icons?i=jupyter,colab" />
 
-<br/>
-
-
 ## <img src="https://cdn-icons-png.flaticon.com/512/3272/3272606.png" width="25"/> Achievements  
 - 🥇 **1st place** – Idea POC Technical Fest  
 - 🏆 **Grand Finalist** – Smart India Hackathon 2024  
@@ -129,19 +126,17 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 </div>
 
 
-## 🔥 Glitch Hacker-Style Dev Joke
+## <div align="center">😂 Dev Joke</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" />
+
+  <!-- Small glitch animation -->
+  <img src="https://media.giphy.com/media/UoqY0lPzS2aK0/giphy.gif" width="180" />
 
   <br/>
 
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" 
-       style="border: 2px solid #00ffea; border-radius: 10px; padding: 10px; filter: drop-shadow(0 0 8px #00ffee);" 
-  />
+  <!-- Random Joke -->
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" width="420" />
 
-  <br/>
-
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" />
 </div>
 
