@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="35">
 </h1>
 
----
+
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828673.png" width="25"/> About Me  
 
@@ -20,7 +20,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 - 🎤 Love public speaking—cleared multiple inter-college competitions  
 - 💼 Looking for Cloud / DevOps / Frontend opportunities  
 
----
+
 
 ## 🛠 Tech Stack  
 
@@ -63,12 +63,9 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 <!-- AI / ML -->
 <img src="https://skillicons.dev/icons?i=jupyter,colab" />
-
-<br/>
-
 </div>
 
----
+
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3272/3272606.png" width="25"/> Achievements  
 - 🥇 **1st place** – Idea POC Technical Fest  
@@ -76,7 +73,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 - 🏅 **Finalist** – Yukti Innovation Challenge  
 - 🕹 **3rd Position** – IEEE Game Development Contest  
 
----
+
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/545/545680.png" width="25"/> Featured Projects  
 
@@ -89,7 +86,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 ### 🔹 **My Developer Portfolio**  
 🔗 Live: https://shiva-cosmic.github.io/ShivanshhPortfolio/
 
----
+
 
 ## 🌐 Connect With Me  
 
@@ -113,7 +110,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 </div>
 
----
+
 
 ## <div align="center"><img src="https://cdn-icons-png.flaticon.com/512/1827/1827504.png" width="25"/> GitHub Stats</div>
 
@@ -128,7 +125,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 </div>
 
 
----
+
 
 ## <div align="center">😂 Dev Joke</div>
 
