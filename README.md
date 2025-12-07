@@ -134,13 +134,11 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 <div align="center">
 
-  <!-- Cyberpunk Purple Glow Animated BG -->
-  <img src="https://i.imgur.com/cFYxQG3.gif" width="450" style="border-radius: 12px;" />
+<img src="https://i.imgur.com/7dV4VdB.png" width="450" style="border-radius: 10px;"/>
 
-  <br/>
+<br/>
 
-  <!-- Random Dev Joke -->
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=false" width="420" />
+<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=false" width="420"/>
 
 </div>
 
