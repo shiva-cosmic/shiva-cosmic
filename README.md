@@ -109,21 +109,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 
 
-## <div align="center"><img src="https://cdn-icons-png.flaticon.com/512/1827/1827504.png" width="25"/> GitHub Stats</div>
-
-<div align="center">
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shiva-cosmic&theme=dark&hide_border=false" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-cosmic&theme=dark&hide_border=false&layout=compact" />
-
-  <br/><br/>
-
-  <img src="https://profile-readme-generator.com/assets/snake.svg" width="100%" />
-
-</div>
+## <img src="https://cdn-icons-png.flaticon.com/512/1827/1827504.png" width="25"/> GitHub Stats ![](https://nirzak-streak-stats.vercel.app/?user=shiva-cosmic&theme=dark&hide_border=false) <br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-cosmic&theme=dark&hide_border=false&layout=compact) <div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" width="100%"> </div>
 
 
 ### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
