@@ -6,10 +6,9 @@
   <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="35">
 </h1>
 
-
 ---
 
-## 🚀 About Me  
+## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828673.png" width="25"/> About Me  
 I'm a **Cloud & DevOps Engineer (AWS)** and **Frontend Developer** passionate about  
 building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
@@ -21,39 +20,41 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 ---
 
-## 🛠 Tech Stack
+## <img src="https://cdn-icons-png.flaticon.com/512/2910/2910791.png" width="25"/> Tech Stack
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <!-- DevOps -->
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 
-### **Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  <!-- Frontend -->
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  <!-- DB -->
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### **Developer Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <!-- Tools -->
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 🏆 Achievements  
-- 🥇 **1st place** – Idea POC Technical Fest (Startup Pitch)  
+## <img src="https://cdn-icons-png.flaticon.com/512/3272/3272606.png" width="25"/> Achievements  
+- 🥇 **1st place** – Idea POC Technical Fest  
 - 🏆 **Grand Finalist** – Smart India Hackathon 2024  
-- 🏅 **Finalist** – Yukti Innovation Challenge 2023  
+- 🏅 **Finalist** – Yukti Innovation Challenge  
 - 🕹 **3rd Position** – IEEE Game Development Contest  
-- 🎤 Cleared two inter-college competitive speaking rounds  
 
 ---
 
-## 📁 Featured Projects  
-*(Only Titles + Live Links as you requested)*
+## <img src="https://cdn-icons-png.flaticon.com/512/545/545680.png" width="25"/> Featured Projects  
 
 ### 🔹 **Money Tracker Web App**  
 🔗 Live: https://money-tracker-five-pearl.vercel.app/
@@ -66,16 +67,26 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 ---
 
-## 🌐 Connect With Me  
+## <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="25"/> Connect With Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiva-cosmic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/shiv-celestial)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shiva-cosmic.github.io/ShivanshhPortfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshiv311@gmail.com)
+<p align="center">
+  <a href="https://github.com/shiva-cosmic">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="http://www.linkedin.com/in/shiv-celestial">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://shiva-cosmic.github.io/ShivanshhPortfolio/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:imshiv311@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://cdn-icons-png.flaticon.com/512/1827/1827504.png" width="25"/> GitHub Stats  
 
 ![](https://nirzak-streak-stats.vercel.app/?user=shiva-cosmic&theme=dark&hide_border=false)
 <br/>
