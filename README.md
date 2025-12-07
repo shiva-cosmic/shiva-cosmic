@@ -24,7 +24,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 ## 🛠 Tech Stack  
 
-<div align="left">
+
 
 <!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,vite" />
@@ -63,7 +63,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 <!-- AI / ML -->
 <img src="https://skillicons.dev/icons?i=jupyter,colab" />
-</div>
+
 
 
 
@@ -128,7 +128,11 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 
 ### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 
 
