@@ -123,7 +123,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-cosmic&theme=dark&hide_border=false&layout=compact" />
+
 
 </div>
 
