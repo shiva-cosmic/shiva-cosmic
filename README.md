@@ -127,12 +127,13 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 
 
-
+## <div align="center"> ✍️ Random Dev Quote  </div>
 <div align="center">
-  ### ✍️ Random Dev Quote  
+ 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
 
 
 
