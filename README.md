@@ -126,17 +126,5 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 </div>
 
 
-## <div align="center">😂 Dev Joke</div>
-
-<div align="center">
-
-  <!-- Small glitch animation -->
-  <img src="https://media.giphy.com/media/UoqY0lPzS2aK0/giphy.gif" width="180" />
-
-  <br/>
-
-  <!-- Random Joke -->
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" width="420" />
-
-</div>
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
