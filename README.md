@@ -24,48 +24,48 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 ## 🛠 Tech Stack  
 
-
+<div align="center">
 
 <!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,vite" />
 
-
+<br/>
 
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-
+<br/>
 
 <!-- Cloud & DevOps -->
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,gitlab,bash,powershell,ansible,heroku,vercel,netlify" />
 
-
+<br/>
 
 <!-- Databases -->
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,dynamodb" />
 
-
+<br/>
 
 <!-- Languages -->
 <img src="https://skillicons.dev/icons?i=python" />
 
-
+<br/>
 
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,notion" />
 
-
+<br/>
 
 <!-- UI / Animation -->
 <img src="https://skillicons.dev/icons?i=gsap" />
 
-
+<br>
 
 <!-- AI / ML -->
 <img src="https://skillicons.dev/icons?i=jupyter,colab" />
 
 
-
+</div>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3272/3272606.png" width="25"/> Achievements  
 - 🥇 **1st place** – Idea POC Technical Fest  
@@ -118,7 +118,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=shiva-cosmic&theme=dark&hide_border=false" />
 
-  <br/><br/>
+  
 
 
 
@@ -127,9 +127,9 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 
 
-### ✍️ Random Dev Quote  
+
 <div align="center">
-  
+  ### ✍️ Random Dev Quote  
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
