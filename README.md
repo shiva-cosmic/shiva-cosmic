@@ -20,35 +20,55 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2910/2910791.png" width="25"/> Tech Stack
+## 🛠 Tech Stack  
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=redux" />
+<div align="center">
 
-  <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=jenkins" />
-  <img src="https://skillicons.dev/icons?i=linux" />
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,vite" />
 
-  <!-- Backend & DB -->
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<br/>
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  
-</p>
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br/>
+
+<!-- Cloud & DevOps -->
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,gitlab,bash,powershell,ansible,heroku,vercel,netlify" />
+
+<br/>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,dynamodb" />
+
+<br/>
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,notion" />
+
+<br/>
+
+<!-- UI / Animation -->
+<img src="https://skillicons.dev/icons?i=gsap" />
+
+<br/>
+
+<!-- AI / ML -->
+<img src="https://skillicons.dev/icons?i=jupyter,colab" />
+
+<br/>
+
+<!-- Special -->
+<img src="https://skillicons.dev/icons?i=ci,devto" />
+<img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+</div>
 
 
 ---
