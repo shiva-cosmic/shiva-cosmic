@@ -119,30 +119,24 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=shiva-cosmic&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shiva-cosmic&theme=dark&hide_border=false" />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-cosmic&theme=dark&hide_border=false&layout=compact" />
-
-<br/><br/>
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-cosmic&theme=dark&hide_border=false&layout=compact" />
 
 </div>
+
 
 ---
 
 ## <div align="center">😂 Dev Joke</div>
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/UoqY0lPzS2aK0/giphy.gif" width="180" />
-
-<br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark" width="420" />
+  
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=false" width="420" />
 
 </div>
+
 
 ---
