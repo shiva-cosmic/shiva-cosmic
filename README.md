@@ -47,7 +47,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=figma" />
+  
 </p>
 
 
