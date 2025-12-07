@@ -29,37 +29,37 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 <!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,vite" />
 
-<br/>
+
 
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<br/>
+
 
 <!-- Cloud & DevOps -->
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,gitlab,bash,powershell,ansible,heroku,vercel,netlify" />
 
-<br/>
+
 
 <!-- Databases -->
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,dynamodb" />
 
-<br/>
+
 
 <!-- Languages -->
 <img src="https://skillicons.dev/icons?i=python" />
 
-<br/>
+
 
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,notion" />
 
-<br/>
+
 
 <!-- UI / Animation -->
 <img src="https://skillicons.dev/icons?i=gsap" />
 
-<br/>
+
 
 <!-- AI / ML -->
 <img src="https://skillicons.dev/icons?i=jupyter,colab" />
@@ -127,9 +127,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 
 
-## <div align="center">😂 Dev Joke</div>
-
-<div align="center">
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 
 
 
@@ -141,4 +139,4 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 
 
----
+
