@@ -92,9 +92,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 
 <div align="center">
 
-<a href="https://github.com/shiva-cosmic">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
+
 
 <a href="http://www.linkedin.com/in/shiv-celestial">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
