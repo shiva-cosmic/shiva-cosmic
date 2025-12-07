@@ -63,10 +63,6 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 <img src="https://skillicons.dev/icons?i=jupyter,colab" />
 
 <br/>
-
-
-
-
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3272/3272606.png" width="25"/> Achievements  
@@ -103,7 +99,7 @@ building scalable cloud systems and beautiful, smooth UI/UX experiences.
 </a>
 
 <a href="https://shiva-cosmic.github.io/ShivanshhPortfolio/">
-  <img src="https://skillicons.dev/icons?i=portfolio" height="50"/>
+  <img src="https://img.icons8.com/fluency/48/domain.png" height="50"/>
 </a>
 
 <a href="mailto:imshiv311@gmail.com">
