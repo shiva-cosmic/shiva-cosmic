@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj5it4SUhr33g1P_0oXUaKOhO5NRHaTdNozBMnSIC1odWuPI5_Bv0p9ZHXJpNeGE7WbP3AtHkj84Fyy0mefZEHUzVUFTLJHClZm1xf2UOrrMVPkz3QeVdkXk0t1QnuXxdV65sWs54jLP_Rp3C1fAQHNqLj2Llg7YJ4Tsz1nM1psmYiWcmfTHHKVwQI7Dac" width="450">
+  <img src="https://raw.githubusercontent.com/shiva-cosmic/shiva-cosmic/main/matrix.svg" width="100%">
 </div>
 
 ---
